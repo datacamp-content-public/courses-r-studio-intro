@@ -41,7 +41,7 @@ xp: 50
 Für was wird in R-Studio das Konsolenfenster verwendet?
 
 `@hint`
-Sieh mal im Web nach:-)
+Sieh mal im Web nach
 
 `@possible_answers`
 Um die R-Dateien zu verwalten.
