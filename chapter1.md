@@ -54,3 +54,41 @@ Sieh mal im Web nach
 - Das kann man besser im Dateimanager machen
 - Dazu verwendet man den Debugger
 - Dazu verwendet man das "Source-Fenster"
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 1d6545be34
+xp: 100
+```
+
+Bei dieser Aufgabe geht es darum, die Konsole von R-Studio als einfachen Taschenrechner zu verwenden.
+
+`@instructions`
+Berechnen Sie die Addition der Zahlen 2+28
+
+`@hint`
+Ergebnis sollte 30 sein:-)
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+2+28
+```
+
+`@sct`
+```{r}
+
+```
