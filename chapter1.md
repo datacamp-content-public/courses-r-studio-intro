@@ -129,7 +129,7 @@ Ergänzung von Befehlen
 
 ---
 
-## Helpful commands for new users
+## Tab-completion
 
 ```yaml
 type: MultipleChoiceExercise
@@ -152,12 +152,12 @@ Verwende die Funktion mean() und die Tab-completion Funktion von R-Studio
 
 `@pre_exercise_code`
 ```{r}
-x <- c(3 12 13 4 6)
+v1 <- c(3 12 13 4 6)
 ```
 
 `@sct`
 ```{r}
-
+ex() %>% check_code("mean(x = v1)", fixed = TRUE)
 ```
 
 ---
