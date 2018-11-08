@@ -50,4 +50,7 @@ Sieh mal im Web nach
 - Um R-Programme zu schreiben und diese in einem Programmfile abzuspeichern.
 
 `@feedback`
-Super!
+- Super!
+- Das kann man besser im Dateimanager machen
+- Dazu verwendet man den Debugger
+- Dazu verwendet man das "Source-Fenster"
