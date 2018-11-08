@@ -23,7 +23,10 @@ Vielleicht solltest du ganz kurz mal die Homepage von R-Studio ansehen
 - Um R-Programme in lauffähige .exe Dateien umzuwandeln.
 
 `@feedback`
-Nicht schlecht für den Anfang!
+- Nicht schlecht für den Anfang!
+- Nö, nicht so gut
+- Nö, nicht so gut
+- Nö, nicht so gut
 
 ---
 
