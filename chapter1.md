@@ -137,9 +137,7 @@ key: 710bb8bb0e
 xp: 50
 ```
 
-
-
-Berechne den Mittelwert des Vektors?
+Berechne den Mittelwert des Vektors. Verwende die Tab-completion von RStudio.
 
 `@possible_answers`
 - 5.4
