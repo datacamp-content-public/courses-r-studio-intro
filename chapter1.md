@@ -102,7 +102,11 @@ Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgefür
 - [Das finden von Fehlern ist mit Hilfe des Editors einfacher als über die Konsole]
 
 `@feedback`
-
+- Ja
+- Nein
+- Ja
+- Ja
+- Ja
 
 ---
 
