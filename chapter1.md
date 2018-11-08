@@ -244,13 +244,13 @@ xp: 50
 Welche Vorteile hat man, wenn der Editor (Source pane) anstelle der Konsole für die Erstellung von R-Programmen verwendet wird?
 
 `@hint`
-Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgefürht werden.
+Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgeführt werden.
 
 `@possible_answers`
 - [Der Editor ermöglicht die Speicherung und Ausführung mehrerer Befehlszeilen eines R-Programms.]
 - Ergebnisse eines Programms können neben dem Code mitgespeichert werden.
 - Programme können im Editor strukturiert und übersichtlich aufgebaut werden.
-- Programme können im Editor dokumentiert werden
+- Programme können im Editor dokumentiert werden.
 - Das finden von Fehlern ist mit Hilfe des Editors einfacher als über die Konsole
 
 `@feedback`
