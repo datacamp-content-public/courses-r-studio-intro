@@ -71,7 +71,7 @@ Bei dieser Aufgabe geht es darum, die Konsole von R-Studio als einfachen Taschen
 Berechnen Sie die Addition der Zahlen 2+28
 
 `@hint`
-Ergebnis sollte 30 sein:-)
+Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst dann passt was nicht
 
 `@pre_exercise_code`
 ```{r}
