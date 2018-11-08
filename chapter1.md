@@ -157,7 +157,11 @@ vector1 <- c(3, 12, 13, 4, 6)
 
 `@sct`
 ```{r}
-ex() %>% check_expr("mean(x = vector1)") %>% check_result() %>% check_equal()
+msg1 <- "Nein, nicht richtig"
+msg2 <- "Nice one!"
+msg3 <- "Fast, aber doch nicht ganz"
+msg4 <- "Ohje, daneben"
+ex() %>% check_mc(2, feedback_msgs = c(msg1, msg2, msg3, msg4))
 ```
 
 ---
