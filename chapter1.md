@@ -57,7 +57,7 @@ Sieh mal im Web nach
 
 ---
 
-## Insert exercise title here
+## Console als Rechner
 
 ```yaml
 type: NormalExercise
@@ -92,3 +92,27 @@ Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst dann passt was nich
 ```{r}
 ex() %>% check_code(c("2+28", "28+2"), fixed = TRUE)
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 5fbf47b162
+xp: 50
+```
+
+Was bewirkt der Ctrl-L im Konsolenfenster?
+
+`@hint`
+L wie Leer
+
+`@possible_answers`
+- Listet die letzt verwendeten Befehle auf
+- [Löscht den Inhalt des Konsolenfenster]
+- Laden von Dateien
+- Löschen der Variablen im Environment
+
+`@feedback`
+Sehr gut, nnur weiter so!
