@@ -41,7 +41,7 @@ xp: 50
 Für was wird in R-Studio das Konsolenfenster verwendet?
 
 `@hint`
-
+Sieh mal im Web nach:-)
 
 `@possible_answers`
 Um die R-Dateien zu verwalten.
@@ -53,3 +53,4 @@ Um den Ablauf von R-Programmen zu kontrollieren.
 Um R-Programme zu schreiben und diese in einem Programmfile abzuspeichern.
 
 `@feedback`
+Super!
