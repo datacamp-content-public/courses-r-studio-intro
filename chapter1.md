@@ -24,9 +24,9 @@ Vielleicht solltest du ganz kurz mal die Homepage von R-Studio ansehen
 
 `@feedback`
 - Nicht schlecht für den Anfang!
-- Nö, nicht so gut
-- Nö, nicht so gut
-- Nö, nicht so gut
+- Nein, dafür kann es verwendet werden, aber es ist nicht die ideale Anwendung.
+- Kann man machen, aber dafür ist R-Studio nicht gedacht.
+- R ist eine Interpreter-Sprache, die Programm müssen daher nicht kompiliert werden.
 
 ---
 
