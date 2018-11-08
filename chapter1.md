@@ -150,7 +150,7 @@ Verwende die Funktion mean() und die Tab-completion Funktion von R-Studio
 
 `@pre_exercise_code`
 ```{r}
-v1 <- c(3 12 13 4 6)
+v1 <- c(3, 12, 13, 4, 6)
 ```
 
 `@sct`
