@@ -17,13 +17,13 @@ In welchen der folgend genannten Fälle ist RStudio eine ideale Anwendung?
 Vielleicht solltest du ganz kurz mal die Homepage von R-Studio ansehen:-)
 
 `@possible_answers`
-[1. Um R-Programme zu schreiben, den Programmablauf zu testen und Projektbasiert zu arbeiten.]
+[Um R-Programme zu schreiben, den Programmablauf zu testen und Projektbasiert zu arbeiten.]
 
-2. Um die Ausgabe von R-Programmen tabellarisch und graphisch dazustellen.
+Um die Ausgabe von R-Programmen tabellarisch und graphisch dazustellen.
 
-3. Um Graphiken und Tabellen von R-Programmen APA-konform darzustellen.
+Um Graphiken und Tabellen von R-Programmen APA-konform darzustellen.
 
-4. Um R-Programme in lauffähige .exe Dateien umzuwandeln.
+Um R-Programme in lauffähige .exe Dateien umzuwandeln.
 
 `@feedback`
 Nicht schlecht für den Anfang!
@@ -44,12 +44,12 @@ Für was wird in R-Studio das Konsolenfenster verwendet?
 
 
 `@possible_answers`
-1. Um die R-Dateien zu verwalten.
+Um die R-Dateien zu verwalten.
 
-[2. Um direkte R-Befehle abzusenden.]
+[Um direkte R-Befehle abzusenden.]
 
-3. Um den Ablauf von R-Programmen zu kontrollieren.
+Um den Ablauf von R-Programmen zu kontrollieren.
 
-4. Um R-Programme zu schreiben und diese in einem Programmfile abzuspeichern.
+Um R-Programme zu schreiben und diese in einem Programmfile abzuspeichern.
 
 `@feedback`
