@@ -166,6 +166,35 @@ ex() %>% check_mc(2, feedback_msgs = c(msg1, msg2, msg3, msg4))
 
 ---
 
+## IDE
+
+```yaml
+type: PureMultipleChoiceExercise
+key: c3ae5215ff
+xp: 50
+```
+
+**Für was steht IDE im Zusammenhang mit RStudio?**
+
+RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es integriert dabei einige Hilfreiche Entwicklungsumgebungen in eine Anwendung.
+
+`@hint`
+
+
+`@possible_answers`
+- Intensive Design Environment
+- Integrated Document Environment
+- Independent Developer Ecosystem
+- [Integrated Development Environment]
+
+`@feedback`
+- Nope
+- Fast
+- Nein
+- Ja, das ist es!
+
+---
+
 ## Console als Rechner
 
 ```yaml
