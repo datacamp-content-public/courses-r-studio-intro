@@ -27,3 +27,29 @@ Vielleicht solltest du ganz kurz mal die Homepage von R-Studio ansehen:-)
 
 `@feedback`
 Nicht schlecht für den Anfang!
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 80a18784d0
+xp: 50
+```
+
+Für was wird in R-Studio das Konsolenfenster verwendet?
+
+`@hint`
+
+
+`@possible_answers`
+1. Um die R-Dateien zu verwalten.
+
+2. [Um direkte R-Befehle abzusenden.]
+
+3. Um den Ablauf von R-Programmen zu kontrollieren.
+
+4. Um R-Programme zu schreiben und diese in einem Programmfile abzuspeichern.
+
+`@feedback`
