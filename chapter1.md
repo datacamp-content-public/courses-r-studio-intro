@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Für was verwendet man R-Studio?
 
 ```yaml
 type: PureMultipleChoiceExercise
