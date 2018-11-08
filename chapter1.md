@@ -249,9 +249,9 @@ Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgefüh
 `@possible_answers`
 - [Der Editor ermöglicht die Speicherung und Ausführung mehrerer Befehlszeilen eines R-Programms.]
 - Ergebnisse eines Programms können neben dem Code mitgespeichert werden.
-- Programme können im Editor strukturiert und übersichtlich aufgebaut werden.
-- Programme können im Editor dokumentiert werden.
-- Das finden von Fehlern ist mit Hilfe des Editors einfacher als über die Konsole
+- [Programme können im Editor strukturiert und übersichtlich aufgebaut werden.]
+- [Programme können im Editor dokumentiert werden.]
+- [Das finden von Fehlern ist mit Hilfe des Editors einfacher als über die Konsole.]
 
 `@feedback`
 - Ja
