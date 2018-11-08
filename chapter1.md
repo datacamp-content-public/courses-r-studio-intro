@@ -157,7 +157,7 @@ vector1 <- c(3, 12, 13, 4, 6)
 
 `@sct`
 ```{r}
-ex() %>% check_function("mean(x = vector1)") %>% check_result() %>% check_equal(7.6)
+
 ```
 
 ---
