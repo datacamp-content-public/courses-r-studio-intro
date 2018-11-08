@@ -137,7 +137,9 @@ key: 710bb8bb0e
 xp: 50
 ```
 
-Berechne den Mittelwert des Vektors **v1** (der Vektor wurde bereits in den Arbeitsspeicher geladen und ist mit eben diesen Namen verfügbar). Verwende die Tab-completion von RStudio sowohl beim Funktionsnamen wie auch innerhalb der Funktion.
+Berechne den Mittelwert des Vektors **v1** (der Vektor wurde bereits in den Arbeitsspeicher geladen und ist mit eben diesen Namen verfügbar). Wenn du in der Konsole v1 und Eingabe eingibst, siehst du die Werte die in diesem Vektor gespeichtert sind.
+
+Verwende die Tab-completion von RStudio sowohl beim Funktionsnamen wie auch innerhalb der Funktion.
 
 `@possible_answers`
 - 5.4
