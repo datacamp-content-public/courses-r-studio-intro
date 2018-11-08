@@ -59,7 +59,7 @@ Vielleicht solltest du ganz kurz mal die Homepage von R-Studio ansehen:-)
 `@possible_answers`
 1. [Um R-Programme zu schreiben, den Programmablauf zu testen und Projektbasiert zu arbeiten.]
 
-2. Um die Ausgabe von R-Programmen dazustellen.
+2. Um die Ausgabe von R-Programmen tabellarisch und graphisch dazustellen.
 
 3. Um Graphiken und Tabellen von R-Programmen APA-konform darzustellen.
 
