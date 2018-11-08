@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: RStudio
+description: 'Allgemeine Fragen zu RStudio'
 ---
 
 ## Example coding exercise
@@ -40,3 +40,30 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 85cda17d46
+xp: 50
+```
+
+In welchen der folgend genannten Fälle ist RStudio eine ideale Anwendung?
+
+`@hint`
+
+
+`@possible_answers`
+1. Um R-Programme zu schreiben, den Programmablauf zu testen und Projektbasiert zu arbeiten.
+
+2. Um die Ausgabe von R-Programmen dazustellen.
+
+3. Um Graphiken und Tabellen von R-Programmen APA-konform darzustellen.
+
+4. Um R-Programme in lauffähige .exe Dateien umzuwandeln.
+
+`@feedback`
+Nicht schlecht für den Anfang!
