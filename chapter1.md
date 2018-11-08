@@ -90,5 +90,5 @@ Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst dann passt was nich
 
 `@sct`
 ```{r}
-
+ex() %>% check_code(c("2+28", "28+2"), fixed = TRUE)
 ```
