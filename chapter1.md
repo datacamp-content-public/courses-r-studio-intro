@@ -65,10 +65,10 @@ xp: 50
 Warum funktioniert das mit den Multiple Choice nicht?
 
 `@possible_answers`
-zu wenig Erfahrung
-[zu blöd]
-[zu alt]
-[Hilfe nicht gelesen]
+- zu wenig Erfahrung
+- zu blöd
+- zu alt
+- [Hilfe nicht gelesen]
 
 `@hint`
 Letzteres ist immer gut
