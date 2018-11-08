@@ -166,6 +166,31 @@ ex() %>% check_mc(2, feedback_msgs = c(msg1, msg2, msg3, msg4))
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 0416ec9294
+xp: 50
+```
+
+dsgfdsfgsdfgdsf
+
+`@hint`
+sdgdsfgdsf
+
+`@possible_answers`
+- a
+- b
+- [c]
+
+`@feedback`
+- so a schaß
+- nu net richtig
+- cool
+
+---
+
 ## IDE
 
 ```yaml
