@@ -129,6 +129,39 @@ Ergänzung von Befehlen
 
 ---
 
+## Helpful commands for new users
+
+```yaml
+type: MultipleChoiceExercise
+key: 710bb8bb0e
+xp: 50
+```
+
+
+
+Berechne den Mittelwert des Vektors?
+
+`@possible_answers`
+- 5.4
+- [7.6]
+- 10.45
+- 12.23
+
+`@hint`
+Verwende die Funktion mean() und die Tab-completion Funktion von R-Studio
+
+`@pre_exercise_code`
+```{r}
+x <- c(3 12 13 4 6)
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
 ## Console als Rechner
 
 ```yaml
