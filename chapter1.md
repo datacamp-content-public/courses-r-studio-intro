@@ -157,7 +157,7 @@ v1 <- c(3, 12, 13, 4, 6)
 
 `@sct`
 ```{r}
-ex() %>% check_code("mean(x = v1)", fixed = TRUE)
+ex() %>% check_function("mean") %>% check_result() %>% check_equal()
 ```
 
 ---
