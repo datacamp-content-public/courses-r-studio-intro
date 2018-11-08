@@ -30,7 +30,7 @@ Nicht schlecht für den Anfang!
 
 ---
 
-## Insert exercise title here
+## Konsolenfenster
 
 ```yaml
 type: PureMultipleChoiceExercise
