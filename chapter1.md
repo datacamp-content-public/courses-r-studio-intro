@@ -57,6 +57,78 @@ Sieh mal im Web nach
 
 ---
 
+## Ctrl-L
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 5fbf47b162
+xp: 50
+```
+
+Was bewirkt der Ctrl-L im Konsolenfenster?
+
+`@hint`
+L wie Leer
+
+`@possible_answers`
+- Listet die letzt verwendeten Befehle auf
+- [Löscht den Inhalt des Konsolenfenster]
+- Laden von Dateien
+- Löschen der Variablen im Environment
+
+`@feedback`
+Sehr gut, nnur weiter so!
+
+---
+
+## Pfeiltasten
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 6fe296d94b
+xp: 50
+```
+
+Was bewirken die Pfeiltasten (Up/Down) im Konsolenfenster?
+
+`@hint`
+Erspart eventuell Tipparbeit.
+
+`@possible_answers`
+- Vergrößert das Konsolenfenster
+- Verkleinert das Konsolenfenster
+- [Zeigt die Historie der bereits verwendeten Befehle]
+- Hat keine Wirkung
+
+`@feedback`
+Na also, passt ja alles.
+
+---
+
+## Tab
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 0b6e4acaf0
+xp: 50
+```
+
+Der Tabulator hat im Konsolenfenster eine besondere Eigenschaft. Welche der nachfolgenden
+
+`@hint`
+Ergänzung von Befehlen
+
+`@possible_answers`
+- Fügt einen fest vorgegebenen Abstand an Leerzeichen ein.
+- [Sucht nach einer Funktion, die mit denselben Buchstaben beginnen wie bereits eingegeben und zeigt diese Funktionen einerseits an, und vervollständigt den Namen des begonnen Funktionsnamen]
+-  Wechselt vom Konsolefenster zum Environmentfenster.
+-  Wechselt vom Konsolefenster zum Filefenster.
+
+`@feedback`
+
+
+---
+
 ## Console als Rechner
 
 ```yaml
@@ -92,27 +164,3 @@ Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst dann passt was nich
 ```{r}
 ex() %>% check_code(c("2+28", "28+2"), fixed = TRUE)
 ```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: PureMultipleChoiceExercise
-key: 5fbf47b162
-xp: 50
-```
-
-Was bewirkt der Ctrl-L im Konsolenfenster?
-
-`@hint`
-L wie Leer
-
-`@possible_answers`
-- Listet die letzt verwendeten Befehle auf
-- [Löscht den Inhalt des Konsolenfenster]
-- Laden von Dateien
-- Löschen der Variablen im Environment
-
-`@feedback`
-Sehr gut, nnur weiter so!
