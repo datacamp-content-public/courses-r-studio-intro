@@ -51,3 +51,34 @@ Um R-Programme zu schreiben und diese in einem Programmfile abzuspeichern.
 
 `@feedback`
 Super!
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: adfd848eb6
+xp: 50
+```
+
+Warum funktioniert das mit den Multiple Choice nicht?
+
+`@possible_answers`
+zu wenig Erfahrung
+[zu blöd]
+[zu alt]
+[Hilfe nicht gelesen]
+
+`@hint`
+Letzteres ist immer gut
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
