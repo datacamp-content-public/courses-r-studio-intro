@@ -151,7 +151,8 @@ Bei der Bezeichnung von Objekten gelten bestimmte Regeln. Welche der angeführte
 
 `@possible_answers`
 - Keine Leerzeichen in Objektnamen, keine mathematischen Operatoren, erstes Zeichen muss ein Buchstabe sein.
-- Leerzeichen in Objektnamen sind erlaubt, keine mathematischen Operatoren, erstes Zeichen muss ein Buchstabe sein.
+- Leerzeichen in Objektnamen sind erlaubt, aber mathematischen Operatoren dürfen nicht verwendet werden.
+-
 
 `@feedback`
 
