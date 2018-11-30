@@ -350,10 +350,10 @@ Welche Bedeutung hat in R das folgende Symbol == im Ausdruck 8 * 3 == 6 * 4?
 
 
 `@possible_answers`
-- weist der Variablen 8*3 das Ergebnis der Multiplikation 6*4 zu.
+- weist der Variablen 8 * 3 das Ergebnis der Multiplikation 6 * 4 zu.
 - hat gar keine Bedeutung, da dieser Ausdruck in R gar nicht erlaubt ist.
-- [Vergleicht ob das Ergebnis 8*3 gleich 6*4 ist und liefert den logischen Wert TRUE als Ergebnis]
-- Vergleicht ob das Ergebnis 8*3 gleich 6*4 ist und liefert den logischen Wert FALSE als Ergebnis
+- [Vergleicht ob das Ergebnis 8 * 3 gleich 6 * 4 ist und liefert den logischen Wert TRUE als Ergebnis]
+- Vergleicht ob das Ergebnis 8 * 3 gleich 6 * 4 ist und liefert den logischen Wert FALSE als Ergebnis
 
 `@feedback`
 - sorry, total daneben. Vielleicht solltest du das Skript nochmals von vorne zu lesen beginnen.
