@@ -28,7 +28,7 @@ Welche Auswirkung haben die Pfeiltasten (nach oben, nach unten) in der Konsole?
 
 ---
 
-## Insert exercise title here
+## Terminalfenster
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -50,3 +50,41 @@ Das Terminalfenster in der Konsole ermöglicht:
 - Falsch
 - Richtig
 - Falsch
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 62baa23c55
+xp: 100
+```
+
+Berechne das Ergebnis für das folgende Polynom 3 mal x plus 2.8 mal x zum Quadrat plus 10 mal die Wurzel von x.
+
+`@instructions`
+Da für x bereits Werte geladen sind, brauchst du bezüglich der Variablenerstellung nichts mehr machen!
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+x <- c(2, 4 ,8)
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+3*x+2.8*x^2+sqrt(x)
+```
+
+`@sct`
+```{r}
+
+```
