@@ -30,6 +30,35 @@ Vielleicht solltest du ganz kurz mal die Homepage von R-Studio ansehen
 
 ---
 
+## IDE
+
+```yaml
+type: PureMultipleChoiceExercise
+key: c3ae5215ff
+xp: 50
+```
+
+**Für was steht IDE im Zusammenhang mit RStudio?**
+
+RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es integriert dabei einige Hilfreiche Entwicklungsumgebungen in eine Anwendung.
+
+`@hint`
+
+
+`@possible_answers`
+- Intensive Design Environment
+- Integrated Document Environment
+- Independent Developer Ecosystem
+- [Integrated Development Environment]
+
+`@feedback`
+- Nope
+- Fast
+- Nein
+- Ja, das ist es!
+
+---
+
 ## Konsolenfenster
 
 ```yaml
@@ -81,6 +110,28 @@ Sehr gut, nnur weiter so!
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 62e5def0d9
+xp: 50
+```
+
+In R wird
+
+`@hint`
+
+
+`@possible_answers`
+- [richtig]
+- falsch
+
+`@feedback`
+Genau, nur weiter so!
+
+---
+
 ## Pfeiltasten
 
 ```yaml
@@ -102,6 +153,28 @@ Erspart eventuell Tipparbeit.
 
 `@feedback`
 Na also, passt ja alles.
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: a2b7712157
+xp: 50
+```
+
+In R wird zwischen Groß- und Kleinschreibung unterschieden, richtig oder falsch?
+
+`@hint`
+
+
+`@possible_answers`
+[richtig]
+falsch
+
+`@feedback`
+Genau!
 
 ---
 
@@ -166,57 +239,31 @@ ex() %>% check_mc(2, feedback_msgs = c(msg1, msg2, msg3, msg4))
 
 ---
 
-## Insert exercise title here
+## Editor
 
 ```yaml
 type: PureMultipleChoiceExercise
-key: 0416ec9294
+key: 0b33dcf8ec
 xp: 50
 ```
 
-dsgfdsfgsdfgdsf
+Welche Vorteile hat man, wenn der Editor (Source pane) anstelle der Konsole für die Erstellung von R-Programmen verwendet wird?
 
 `@hint`
-sdgdsfgdsf
+Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgeführt werden.
 
 `@possible_answers`
-- a
-- b
-- [c]
+- [Der Editor ermöglicht Speicherung und Ausführung mehrerer Befehlszeilen, sowie die Dokumentation eines R-Programms.]
+- Ergebnisse eines Programms können neben dem Code mitgespeichert werden.
+- Mit dem Editor können Graphiken besser dargestellt werden.
+- Die Hilfefunktion für R-Funktionen ist nur im Editor verfügbar.
+- Die Historie von bereits ausgeführten Befehlssequenzen steht nur für Funktionen die im Editor verwendet wurden zur Verfügung.
 
 `@feedback`
-- so a schaß
-- nu net richtig
-- cool
-
----
-
-## IDE
-
-```yaml
-type: PureMultipleChoiceExercise
-key: c3ae5215ff
-xp: 50
-```
-
-**Für was steht IDE im Zusammenhang mit RStudio?**
-
-RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es integriert dabei einige Hilfreiche Entwicklungsumgebungen in eine Anwendung.
-
-`@hint`
-
-
-`@possible_answers`
-- Intensive Design Environment
-- Integrated Document Environment
-- Independent Developer Ecosystem
-- [Integrated Development Environment]
-
-`@feedback`
-- Nope
-- Fast
+- Ja
 - Nein
-- Ja, das ist es!
+- Nein
+- Nein
 
 ---
 
@@ -255,31 +302,3 @@ Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst dann passt was nich
 ```{r}
 ex() %>% check_code(c("2+28", "28+2"), fixed = TRUE)
 ```
-
----
-
-## Editor
-
-```yaml
-type: PureMultipleChoiceExercise
-key: 0b33dcf8ec
-xp: 50
-```
-
-Welche Vorteile hat man, wenn der Editor (Source pane) anstelle der Konsole für die Erstellung von R-Programmen verwendet wird?
-
-`@hint`
-Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgeführt werden.
-
-`@possible_answers`
-- [Der Editor ermöglicht Speicherung und Ausführung mehrerer Befehlszeilen, sowie die Dokumentation eines R-Programms.]
-- Ergebnisse eines Programms können neben dem Code mitgespeichert werden.
-- Mit dem Editor können Graphiken besser dargestellt werden.
-- Die Hilfefunktion für R-Funktionen ist nur im Editor verfügbar.
-- Die Historie von bereits ausgeführten Befehlssequenzen steht nur für Funktionen die im Editor verwendet wurden zur Verfügung.
-
-`@feedback`
-- Ja
-- Nein
-- Nein
-- Nein
