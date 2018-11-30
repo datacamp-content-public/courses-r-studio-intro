@@ -344,7 +344,7 @@ key: 89a188d0cb
 xp: 50
 ```
 
-Welche Bedeutung hat in R das folgende Symbol == im Ausdruck 8*3 == 6*4?
+Welche Bedeutung hat in R das folgende Symbol == im Ausdruck 8$*$3 == 6*4?
 
 `@hint`
 
