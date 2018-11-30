@@ -126,3 +126,49 @@ Prüfe in einer Codezeile, ob 3 * 4 gleich 2 * 6 UND 5 * 12 gleich 60 ist.
 ```{r}
 ex() %>% check_code(c("3*4 == 2*6 & 5*12 == 60"), fixed = TRUE)
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: ac4cf56bea
+xp: 100
+```
+
+Weise der Variablen **Var1** den Wert **5** zu
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: df8e973c46
+xp: 100
+```
+
+`@instructions`
+Berechne nun die 3te Potenz der Variablen A
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+A^3
+```
+
+`@sct`
+```{r}
+
+```
