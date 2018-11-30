@@ -181,7 +181,10 @@ Erspart eventuell Tipparbeit.
 - Hat keine Wirkung
 
 `@feedback`
-Na also, passt ja alles.
+- Sorry, ist falsch
+- Sorry, ist falsch
+- [Na also, passt ja alles.]
+- Sorry, ist falsch
 
 ---
 
