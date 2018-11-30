@@ -235,7 +235,10 @@ Ergänzung von Befehlen
 -  Wechselt vom Konsolefenster zum Filefenster.
 
 `@feedback`
-
+- Sorry, ist falsch
+- Genau, das habe ich erwartet!
+- Sorry, ist falsch
+- Sorry, ist falsch
 
 ---
 
@@ -298,6 +301,7 @@ Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgefüh
 
 `@feedback`
 - Ja
+- Nein
 - Nein
 - Nein
 - Nein
