@@ -67,7 +67,7 @@ key: 62e5def0d9
 xp: 50
 ```
 
-In R wird
+In R wird zwischen Groß und Kleinschreibung unterschieden, richtig oder falsch?
 
 `@hint`
 
