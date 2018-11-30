@@ -149,7 +149,7 @@ Weise der Variablen **Var1** den Wert **5** zu
 ```yaml
 type: NormalExercise
 key: df8e973c46
-xp: 100
+xp: 50
 ```
 
 `@instructions`
@@ -170,5 +170,31 @@ A^3
 
 `@sct`
 ```{r}
-ex() %>% check_code(c("A^3"), fixed = TRUE)
+ex() %>% check_code(c("A<-5", "A^3"), fixed = TRUE)
+```
+
+***
+
+```yaml
+type: MultipleChoiceExercise
+key: 4f4dfefa9f
+xp: 50
+```
+
+`@question`
+Das Ergebnis lautet?
+
+`@possible_answers`
+- 100
+- 125
+- 150
+
+`@hint`
+
+
+`@sct`
+```{r}
+- falsch
+- richtig
+- falsch
 ```
