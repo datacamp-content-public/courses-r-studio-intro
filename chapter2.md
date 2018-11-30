@@ -114,7 +114,7 @@ Prüfe in einer Codezeile, ob 3 * 4 gleich 2 * 6 UND 5 * 12 gleich 60 ist.
 
 `@sample_code`
 ```{r}
-3*4 == 2*6 & 5*12 == 60
+
 ```
 
 `@solution`
