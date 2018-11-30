@@ -136,7 +136,7 @@ Welches Dezimaltrennzeichen wird in R verwendet?
 
 ---
 
-## Insert exercise title here
+## Objektbezeichnung
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -333,3 +333,30 @@ Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst dann passt was nich
 ```{r}
 ex() %>% check_code(c("2+28", "28+2"), fixed = TRUE)
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 89a188d0cb
+xp: 50
+```
+
+Welche Bedeutung hat in R das folgende Symbol == im Ausdruck 8*3 == 6*4?
+
+`@hint`
+
+
+`@possible_answers`
+- weist der Variablen 8*3 das Ergebnis der Multiplikation 6*4 zu.
+- hat gar keine Bedeutung, da dieser Ausdruck in R gar nicht erlaubt ist.
+- [Vergleicht ob das Ergebnis 8*3 gleich 6*4 ist und liefert den logischen Wert TRUE als Ergebnis]
+- Vergleicht ob das Ergebnis 8*3 gleich 6*4 ist und liefert den logischen Wert FALSE als Ergebnis
+
+`@feedback`
+- sorry, total daneben. Vielleicht solltest du das Skript nochmals von vorne zu lesen beginnen.
+- Nein, der Ausdruck ist sehr wohl erlaubt.
+- Ja, er prüft auf logische Äquivalenz.
+- Der Vergleich liefert aber ein anderes Ergebnis, oder?
