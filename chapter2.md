@@ -129,7 +129,7 @@ ex() %>% check_code(c("3*4 == 2*6 & 5*12 == 60"), fixed = TRUE)
 
 ---
 
-## Insert exercise title here
+## Variablenberechnung
 
 ```yaml
 type: TabExercise
@@ -170,5 +170,5 @@ A^3
 
 `@sct`
 ```{r}
-
+ex() %>% check_code(c("A^3"), fixed = TRUE)
 ```
