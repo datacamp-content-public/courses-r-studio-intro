@@ -86,6 +86,55 @@ Sieh mal im Web nach
 
 ---
 
+## Groß und Kleinschreibung
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 62e5def0d9
+xp: 50
+```
+
+In R wird
+
+`@hint`
+
+
+`@possible_answers`
+- [richtig]
+- falsch
+
+`@feedback`
+Genau, nur weiter so!
+
+---
+
+## Dezimaltrennzeichen
+
+```yaml
+type: PureMultipleChoiceExercise
+key: f9ca438ffc
+xp: 50
+```
+
+Welches Dezimaltrennzeichen wird in R verwendet?
+
+`@hint`
+
+
+`@possible_answers`
+- Komma
+- [Punkt]
+- Semikolon
+- Colon
+
+`@feedback`
+- Nope
+- Super, das ist es!
+- Nope
+- Nope
+
+---
+
 ## Ctrl-L
 
 ```yaml
@@ -110,28 +159,6 @@ Sehr gut, nnur weiter so!
 
 ---
 
-## Insert exercise title here
-
-```yaml
-type: PureMultipleChoiceExercise
-key: 62e5def0d9
-xp: 50
-```
-
-In R wird
-
-`@hint`
-
-
-`@possible_answers`
-- [richtig]
-- falsch
-
-`@feedback`
-Genau, nur weiter so!
-
----
-
 ## Pfeiltasten
 
 ```yaml
@@ -153,28 +180,6 @@ Erspart eventuell Tipparbeit.
 
 `@feedback`
 Na also, passt ja alles.
-
----
-
-## Insert exercise title here
-
-```yaml
-type: PureMultipleChoiceExercise
-key: a2b7712157
-xp: 50
-```
-
-In R wird zwischen Groß- und Kleinschreibung unterschieden, richtig oder falsch?
-
-`@hint`
-
-
-`@possible_answers`
-[richtig]
-falsch
-
-`@feedback`
-Genau!
 
 ---
 
