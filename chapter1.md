@@ -154,7 +154,10 @@ L wie Leer
 - Löschen der Variablen im Environment
 
 `@feedback`
-Sehr gut, nnur weiter so!
+- Sorry, ist falsch
+- Sehr gut, nur weiter so!
+- Sorry, ist falsch
+- Sorry, ist falsch
 
 ---
 
