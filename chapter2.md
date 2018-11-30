@@ -187,7 +187,7 @@ Das Ergebnis lautet?
 
 `@possible_answers`
 - 100
-- 125
+- [125]
 - 150
 
 `@hint`
