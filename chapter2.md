@@ -195,7 +195,5 @@ Das Ergebnis lautet?
 
 `@sct`
 ```{r}
-- falsch
-- richtig
-- falsch
+125
 ```
