@@ -53,7 +53,7 @@ Das Terminalfenster in der Konsole ermöglicht:
 
 ---
 
-## Insert exercise title here
+## Polyomberechnung
 
 ```yaml
 type: NormalExercise
@@ -86,5 +86,5 @@ x <- c(2, 4 ,8)
 
 `@sct`
 ```{r}
-
+ex() %>% check_code(c("3*x+2.8*x^2+sqrt(x)"), fixed = TRUE)
 ```
