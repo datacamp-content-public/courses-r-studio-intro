@@ -141,7 +141,7 @@ Weise der Variablen **Var1** den Wert **5** zu
 
 `@pre_exercise_code`
 ```{r}
-
+A <- 5
 ```
 
 ***
@@ -165,6 +165,7 @@ Berechne nun die 3te Potenz der Variablen A
 
 `@solution`
 ```{r}
+A <- 5
 A^3
 ```
 
