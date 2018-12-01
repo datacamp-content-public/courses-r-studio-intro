@@ -141,7 +141,7 @@ Weise der Variablen **Var1** den Wert **5** zu
 
 `@pre_exercise_code`
 ```{r}
-Var1 <- 5
+
 ```
 
 ***
