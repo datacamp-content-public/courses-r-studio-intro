@@ -171,8 +171,7 @@ Var1^3
 
 `@sct`
 ```{r}
-ex() %>% check_code(c("Var1<-5", "Var1^3"), fixed = TRUE) %>% check_equal()
-success_msg("Super! Genauso gehts ...")
+ex() %>% check_code(c("Var1<-5", "Var1^3"), fixed = TRUE) %>% check_equal() success_msg("Super! Genauso gehts ...")
 ```
 
 ***
