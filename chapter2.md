@@ -141,7 +141,7 @@ Weise der Variablen **Var1** den Wert **5** zu
 
 `@pre_exercise_code`
 ```{r}
-A <- 5
+Var1 <- 5
 ```
 
 ***
@@ -153,7 +153,7 @@ xp: 50
 ```
 
 `@instructions`
-Berechne nun die 3te Potenz der Variablen A
+Berechne nun die 3te Potenz der Variablen Var1
 
 `@hint`
 
@@ -165,13 +165,13 @@ Berechne nun die 3te Potenz der Variablen A
 
 `@solution`
 ```{r}
-A <- 5
-A^3
+Var1 <- 5
+Var1^3
 ```
 
 `@sct`
 ```{r}
-ex() %>% check_code(c("A<-5", "A^3"), fixed = TRUE) %>% check_equal()
+ex() %>% check_code(c("Var1<-5", "Var1^3"), fixed = TRUE) %>% check_equal()
 success_msg("Super! Genauso gehts ...")
 ```
 
