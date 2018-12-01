@@ -228,8 +228,10 @@ Die z-Transformation eines Elementes **x** aus der Stichprobe berechnet sich aus
 
 Berechne die z-Transformation für x = 90 und speichere das Ergebnis in der Variablen **x90**.
 
-`@hint`
+Gib den Wert der Variablen **x90** in der Konsole aus!
 
+`@hint`
+Weise im ersten Schritt der Variablen x den Wert 90 zu. Im nächsten Schritt verwende die Funktionen mean() und sd() um die Formel zur Berechnung der z-Transformation zu erstellen.
 
 `@sample_code`
 ```{r}
@@ -240,6 +242,7 @@ Berechne die z-Transformation für x = 90 und speichere das Ergebnis in der Vari
 ```{r}
 x <- 90
 x90 <- (x - mean(SP)) / sd(SP)
+x90
 ```
 
 `@sct`
