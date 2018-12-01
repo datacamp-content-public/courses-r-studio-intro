@@ -224,11 +224,7 @@ xp: 100
 ```
 
 `@instructions`
-Die z-Transformation eines Elementes **x** aus der Stichprobe berechnet sich aus der Differenz von x zum MW der Stichprobe, geteilt durch die Standardabweichung SD. 
-
-Berechne die z-Transformation für x = 90 und speichere das Ergebnis in der Variablen **x90**.
-
-Gib den Wert der Variablen **x90** in der Konsole aus!
+Die z-Transformation eines Elementes **x** aus der Stichprobe berechnet sich aus der Differenz von x zum MW der Stichprobe, geteilt durch die Standardabweichung SD. Berechne die z-Transformation für x = 90 und speichere das Ergebnis in der Variablen **x90** und gib den Wert der Variablen **x90** in der Konsole aus!
 
 `@hint`
 Weise im ersten Schritt der Variablen x den Wert 90 zu. Im nächsten Schritt verwende die Funktionen mean() und sd() um die Formel zur Berechnung der z-Transformation zu erstellen.
