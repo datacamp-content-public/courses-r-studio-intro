@@ -171,7 +171,7 @@ Var1^3
 
 `@sct`
 ```{r}
-ex() %>% check_code(c("Var1<-5", "Var1^3"), fixed = TRUE)
+ex() %>% check_code(c("Var1 <- 5", "Var1^3"), fixed = TRUE)
 ```
 
 ***
