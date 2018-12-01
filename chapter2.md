@@ -200,7 +200,7 @@ Das Ergebnis lautet?
 
 ---
 
-## Insert exercise title here
+## Variablen und einfache Funktionen
 
 ```yaml
 type: TabExercise
