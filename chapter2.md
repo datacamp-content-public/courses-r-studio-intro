@@ -247,5 +247,5 @@ x90
 
 `@sct`
 ```{r}
-
+ex() %>% check_code(c("x<-90", "x90 <- (x - mean(SP)) / sd(SP)", "x90"), fixed = TRUE)
 ```
