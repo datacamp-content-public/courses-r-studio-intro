@@ -208,7 +208,7 @@ key: fd86f277a3
 xp: 100
 ```
 
-In dieser Übung verwenden wir Variablen und einfache Funktionen. Bei diesem Beispiel geht es um die z-Transformation einer Zahl **x** aus der Menge einer Stichprobe **SP**. Die Stichprobe wurde aus einer normalverteilten Grundgesamtheit gezogen und hat einen Umfang von N = 300, einen Mittelwert von MW = 100 und eine Streuung von SD = 15 (siehe nachfolgenden Code).
+In dieser Übung verwenden wir Variablen und einfache Funktionen. Bei diesem Beispiel geht es um die z-Transformation einer Zahl **x** aus der Menge einer Stichprobe **SP**. Die Stichprobe wurde aus einer normalverteilten Grundgesamtheit gezogen und hat einen Umfang von N = 300, einen Mittelwert von MW = 100 und eine Streuung von SD = 15. Die Variable SP steht bereits zur weiteren Verwendung zur Verfügung!
 
 `@pre_exercise_code`
 ```{r}
