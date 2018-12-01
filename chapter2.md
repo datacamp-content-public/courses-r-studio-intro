@@ -197,3 +197,52 @@ Das Ergebnis lautet?
 ```{r}
 125
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: fd86f277a3
+xp: 100
+```
+
+In dieser Übung verwenden wir Variablen und einfache Funktionen. Bei diesem Beispiel geht es um die z-Transformation einer Zahl **x** aus der Menge einer Stichprobe **SP**. Die Stichprobe wurde aus einer normalverteilten Grundgesamtheit gezogen und hat einen Umfang von N = 300, einen Mittelwert von MW = 100 und eine Streuung von SD = 15 (siehe nachfolgenden Code).
+
+`@pre_exercise_code`
+```{r}
+SP <-  rnorm(300, mean = 100, sd = 15)
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 69438ace6d
+xp: 100
+```
+
+`@instructions`
+Die z-Transformation eines Elementes **x** aus der Stichprobe berechnet sich aus der Differenz von x zum MW der Stichprobe, geteilt durch die Standardabweichung SD. 
+
+Berechne die z-Transformation für x = 90 und speichere das Ergebnis in der Variablen **x90**.
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+x <- 90
+x90 <- (x - mean(SP)) / sd(SP)
+```
+
+`@sct`
+```{r}
+
+```
