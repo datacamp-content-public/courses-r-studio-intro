@@ -61,7 +61,7 @@ key: 62baa23c55
 xp: 100
 ```
 
-Berechne das Ergebnis für das folgende Polynom 3 mal **x** plus 2.8 mal **x** zum Quadrat plus 10 mal die Wurzel von **x**.
+Berechne das Ergebnis für das folgende Polynom 3 mal **Var1** plus 2.8 mal **Var1** zum Quadrat plus 10 mal die Wurzel von **Var1**.
 
 `@instructions`
 Da für x bereits Werte geladen sind, brauchst du bezüglich der Variablenerstellung nichts mehr machen!
@@ -71,7 +71,7 @@ Da für x bereits Werte geladen sind, brauchst du bezüglich der Variablenerstel
 
 `@pre_exercise_code`
 ```{r}
-x <- c(2, 4 ,8)
+Var1 <- c(2, 4 ,8)
 ```
 
 `@sample_code`
@@ -81,12 +81,12 @@ x <- c(2, 4 ,8)
 
 `@solution`
 ```{r}
-3*x+2.8*x^2+10*sqrt(x)
+3*Var1+2.8*Var1^2+10*sqrt(Var1)
 ```
 
 `@sct`
 ```{r}
-ex() %>% check_code(c("3*x+2.8*x^2+10*sqrt(x)"), fixed = TRUE)
+ex() %>% check_code(c("3*Var1+2.8*Var1^2+10*sqrt(Var1)"), fixed = TRUE)
 ```
 
 ---
