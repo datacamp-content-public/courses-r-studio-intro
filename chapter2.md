@@ -64,7 +64,7 @@ xp: 100
 Berechne das Ergebnis für das folgende Polynom 3 mal **Var1** plus 2.8 mal **Var1** zum Quadrat plus 10 mal die Wurzel von **Var1**.
 
 `@instructions`
-Da für x bereits Werte geladen sind, brauchst du bezüglich der Variablenerstellung nichts mehr machen!
+Da für **Var1** bereits Werte geladen sind, brauchst du bezüglich der Variablenerstellung nichts mehr machen!
 
 `@hint`
 
