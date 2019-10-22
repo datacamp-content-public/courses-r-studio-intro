@@ -223,14 +223,14 @@ key: 0b6e4acaf0
 xp: 50
 ```
 
-Der Tabulator hat im Konsolenfenster eine besondere Eigenschaft. Welche der nachfolgenden
+Der Tabulator hat im Konsolenfenster eine besondere Eigenschaft. Welche der nachfolgenden Eigenschaften ist richtig?
 
 `@hint`
 Ergänzung von Befehlen
 
 `@possible_answers`
 - Fügt einen fest vorgegebenen Abstand an Leerzeichen ein.
-- [Sucht nach einer Funktion, die mit denselben Buchstaben beginnen wie bereits eingegeben und zeigt diese Funktionen einerseits an, und vervollständigt den Namen des begonnen Funktionsnamen]
+- [Sucht nach einer Funktion, die mit denselben Buchstaben beginnt wie bereits eingegeben und zeigt diese Funktionen einerseits an, und vervollständigt den Namen des begonnenen Funktionsnamens]
 -  Wechselt vom Konsolefenster zum Environmentfenster.
 -  Wechselt vom Konsolefenster zum Filefenster.
 
@@ -250,7 +250,7 @@ key: 710bb8bb0e
 xp: 50
 ```
 
-Berechne den Mittelwert des Vektors **vector1** (der Vektor wurde bereits in den Arbeitsspeicher geladen und ist mit eben diesen Namen verfügbar). Wenn du in der Konsole v1 und Eingabe eingibst, siehst du die Werte die in diesem Vektor gespeichtert sind.
+Berechne den Mittelwert des Vektors **vector1** (der Vektor wurde bereits in den Arbeitsspeicher geladen und ist mit eben diesem Namen verfügbar). Wenn du in der Konsole _v1_ und _Eingabe_ eingibst, siehst du die Werte, die in diesem Vektor gespeichtert sind.
 
 Verwende die Tab-completion von RStudio sowohl beim Funktionsnamen wie auch innerhalb der Funktion.
 
@@ -261,7 +261,7 @@ Verwende die Tab-completion von RStudio sowohl beim Funktionsnamen wie auch inne
 - 12.23
 
 `@hint`
-Verwende die Funktion mean() und die Tab-completion Funktion von R-Studio
+Verwende die Funktion mean() und die Tab-completion-Funktion von R-Studio
 
 `@pre_exercise_code`
 ```{r}
@@ -297,7 +297,7 @@ Mehrere Befehle können in der Konsole nur nacheinander eingegeben und ausgefüh
 - Ergebnisse eines Programms können neben dem Code mitgespeichert werden.
 - Mit dem Editor können Graphiken besser dargestellt werden.
 - Die Hilfefunktion für R-Funktionen ist nur im Editor verfügbar.
-- Die Historie von bereits ausgeführten Befehlssequenzen steht nur für Funktionen die im Editor verwendet wurden zur Verfügung.
+- Die Historie von bereits ausgeführten Befehlssequenzen steht nur für Funktionen, die im Editor verwendet wurden, zur Verfügung.
 
 `@feedback`
 - Ja
@@ -322,7 +322,7 @@ Bei dieser Aufgabe geht es darum, die Konsole von R-Studio als einfachen Taschen
 Berechnen Sie die Addition der Zahlen 2+28
 
 `@hint`
-Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst dann passt was nicht
+Ergebnis sollte 30 sein, wenn du was anderes heraus bekommst, dann passt was nicht
 
 `@pre_exercise_code`
 ```{r}
