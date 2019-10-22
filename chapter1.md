@@ -354,10 +354,10 @@ key: 80a18784d0
 xp: 50
 ```
 
-Für was wird in R-Studio das Konsolenfenster verwendet?
+Wofür wird in R-Studio das Konsolenfenster verwendet?
 
 `@hint`
-Sieh mal im Web nach
+Sieh mal im Web nach.
 
 `@possible_answers`
 - [Um direkte R-Befehle abzusenden.]

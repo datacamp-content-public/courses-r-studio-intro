@@ -18,7 +18,7 @@ Welche Auswirkung haben die Pfeiltasten (nach oben, nach unten) in der Konsole?
 
 `@possible_answers`
 - Bewegen den Cursor in ein anderes Fenster von RStudio.
-- Bewirken nichts spezielles.
+- Bewirken nichts Spezielles.
 - [Blättern durch die bereits eingegebenen Befehle (Historie)]
 
 `@feedback`
@@ -43,8 +43,8 @@ Das Terminalfenster in der Konsole ermöglicht:
 
 `@possible_answers`
 - R zu beenden
-- [fortgeschrittenen Programmkontrolle zu starten]
-- R Code in externe Anwendungen zu kopiern
+- [fortgeschrittene Programmkontrolle zu starten]
+- R-Code in externe Anwendungen zu kopieren
 
 `@feedback`
 - Falsch
