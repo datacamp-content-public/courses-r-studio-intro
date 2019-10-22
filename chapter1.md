@@ -17,16 +17,16 @@ In welchen der folgend genannten Fälle ist RStudio eine ideale Anwendung?
 Vielleicht solltest du ganz kurz mal die Homepage von R-Studio ansehen
 
 `@possible_answers`
-- [Um R-Programme zu schreiben, den Programmablauf zu testen und Projektbasiert zu arbeiten.]
-- Um die Ausgabe von R-Programmen tabellarisch und graphisch dazustellen.
+- [Um R-Programme zu schreiben, den Programmablauf zu testen und projektbasiert zu arbeiten.]
+- Um die Ausgabe von R-Programmen tabellarisch und graphisch darzustellen.
 - Um Graphiken und Tabellen von R-Programmen APA-konform darzustellen.
-- Um R-Programme in lauffähige .exe Dateien umzuwandeln.
+- Um R-Programme in lauffähige .exe-Dateien umzuwandeln.
 
 `@feedback`
 - Nicht schlecht für den Anfang!
 - Nein, dafür kann es verwendet werden, aber es ist nicht die ideale Anwendung.
 - Kann man machen, aber dafür ist R-Studio nicht gedacht.
-- R ist eine Interpreter-Sprache, die Programm müssen daher nicht kompiliert werden.
+- R ist eine Interpreter-Sprache, die Programme müssen daher nicht kompiliert werden.
 
 ---
 
@@ -40,7 +40,7 @@ xp: 50
 
 **Für was steht IDE im Zusammenhang mit RStudio?**
 
-RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es integriert dabei einige Hilfreiche Entwicklungsumgebungen in eine Anwendung.
+RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es integriert dabei einige hilfreiche Entwicklungsumgebungen in eine Anwendung.
 
 `@hint`
 
