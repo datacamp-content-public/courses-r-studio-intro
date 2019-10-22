@@ -59,7 +59,7 @@ RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es in
 
 ---
 
-## Groß und Kleinschreibung
+## Groß- und Kleinschreibung
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -67,7 +67,7 @@ key: 62e5def0d9
 xp: 50
 ```
 
-In R wird zwischen Groß und Kleinschreibung unterschieden, richtig oder falsch?
+In R wird zwischen Groß- und Kleinschreibung unterschieden, richtig oder falsch?
 
 `@hint`
 
@@ -78,7 +78,7 @@ In R wird zwischen Groß und Kleinschreibung unterschieden, richtig oder falsch?
 
 `@feedback`
 - Genau, nur weiter so!
-- Nein, leider ist die Antwort falsch wirklich falsch
+- Nein, leider ist die Antwort _falsch_ wirklich falsch
 
 ---
 
