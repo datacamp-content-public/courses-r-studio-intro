@@ -123,7 +123,7 @@ Bei der Bezeichnung von Objekten gelten bestimmte Regeln. Welche der angeführte
 
 
 `@possible_answers`
-- Leerzeichen in Objektnamen sind erlaubt, aber mathematischen Operatoren dürfen nicht verwendet werden.
+- Leerzeichen in Objektnamen sind erlaubt, aber mathematische Operatoren dürfen nicht verwendet werden.
 - Alles ist erlaubt, außer dass Objektnamen mit einer Ziffer beginnen.
 - [Keine Leerzeichen in Objektnamen, keine mathematischen Operatoren, erstes Zeichen muss ein Buchstabe sein.]
 
@@ -148,8 +148,8 @@ Was bewirkt der Ctrl-L im Konsolenfenster?
 L wie Leer
 
 `@possible_answers`
-- Listet die letzt verwendeten Befehle auf
-- [Löscht den Inhalt des Konsolenfenster]
+- Listet die zuletzt verwendeten Befehle auf
+- [Löscht den Inhalt des Konsolenfensters]
 - Laden von Dateien
 - Löschen der Variablen im Environment
 
@@ -202,13 +202,13 @@ Welche Bedeutung hat in R das folgende Symbol == im Ausdruck 8 * 3 == 6 * 4?
 
 
 `@possible_answers`
-- weist der Variablen 8 * 3 das Ergebnis der Multiplikation 6 * 4 zu.
+- weist der Variablen _8 * 3_ das Ergebnis der Multiplikation _6 * 4_ zu.
 - hat gar keine Bedeutung, da dieser Ausdruck in R gar nicht erlaubt ist.
-- [Vergleicht ob das Ergebnis 8 * 3 gleich 6 * 4 ist und liefert den logischen Wert TRUE als Ergebnis]
-- Vergleicht ob das Ergebnis 8 * 3 gleich 6 * 4 ist und liefert den logischen Wert FALSE als Ergebnis
+- [Vergleicht, ob das Ergebnis 8 * 3 gleich 6 * 4 ist und liefert den logischen Wert TRUE als Ergebnis]
+- Vergleicht, ob das Ergebnis 8 * 3 gleich 6 * 4 ist und liefert den logischen Wert FALSE als Ergebnis
 
 `@feedback`
-- sorry, total daneben. Vielleicht solltest du das Skript nochmals von vorne zu lesen beginnen.
+- Sorry, total daneben. Vielleicht solltest du das Skript nochmals von vorne zu lesen beginnen.
 - Nein, der Ausdruck ist sehr wohl erlaubt.
 - Ja, er prüft auf logische Äquivalenz.
 - Der Vergleich liefert aber ein anderes Ergebnis, oder?
