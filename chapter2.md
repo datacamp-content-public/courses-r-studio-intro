@@ -245,3 +245,28 @@ x90
 ```{r}
 ex() %>% check_code(c("x<-90", "x90 <- (x - mean(SP)) / sd(SP)", "x90"), fixed = TRUE)
 ```
+
+---
+
+## R-Markdown
+
+```yaml
+type: PureMultipleChoiceExercise
+key: a11899b0fa
+xp: 50
+```
+
+Was ermöglicht R-Markdown?
+
+`@hint`
+- R-Markdown ist an HTML angelehnt.
+
+`@possible_answers`
+- [Man kann damit Dokumente erstellen, die sowohl R-Code als auch Text enthalten.]
+- Es ermöglicht das einfache Erstellen von Bilddateien.
+- Es handelt sich um ein Paket zur Notengebung.
+
+`@feedback`
+- Richtig. 
+- Leider nein. 
+- Nein, um "marks" geht es hier nicht :)
