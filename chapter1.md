@@ -59,6 +59,32 @@ RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es in
 
 ---
 
+## Kompatible Programme
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 225ae2d2bd
+xp: 50
+```
+
+Welche Programme lassen sich nicht nur als Alternative zu R verwenden, sondern lassen sich auch in R einbinden?
+
+`@hint`
+- Es gibt zwei richtige Antworten.
+- Ein Programm lässt sich mit dem Paket _jmv_ in R einbinden.
+
+`@possible_answers`
+- [JAMOVI]
+- JPEG
+- [JASP]
+
+`@feedback`
+- Perfekt!
+- Leider nein, bei JPEG geht's um Bilder. 
+- Richtig!
+
+---
+
 ## Groß- und Kleinschreibung
 
 ```yaml
