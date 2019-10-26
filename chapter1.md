@@ -70,7 +70,6 @@ xp: 50
 Welche Statistik-Programme lassen sich nicht nur als Alternative zu R verwenden, sondern lassen sich auch in R einbinden?
 
 `@hint`
-- Es gibt zwei richtige Antworten.
 - Ein Programm lässt sich mit dem Paket _jmv_ in R einbinden.
 
 `@possible_answers`
@@ -168,7 +167,7 @@ key: 5fbf47b162
 xp: 50
 ```
 
-Was bewirkt der Ctrl-L im Konsolenfenster?
+Was bewirkt die Tastenkombination Ctrl-L im Konsolenfenster?
 
 `@hint`
 L wie Leer
