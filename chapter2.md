@@ -276,28 +276,22 @@ Was ermöglicht R-Markdown?
 ## Extract Function
 
 ```yaml
-type: MultipleChoiceExercise
-key: 2af82ca06c
+type: PureMultipleChoiceExercise
+key: 7fa9b2fde4
 xp: 50
 ```
 
-Wozu dient die Extract Function? Wandeln Sie den angegebenen Code in eine Funktion um. 
+Wozu dient die Extract Function?
+
+`@hint`
+- Sie ist praktisch für sich wiederholende Aufgaben.
 
 `@possible_answers`
 - Damit kann man Variablen aus dem Code wiederverwenden. 
 - Damit lässt sich das Speichern von Daten vereinfachen. 
 - [Damit lässt sich selbst geschriebener Code in eine Funktion umwandeln.]
 
-`@hint`
-- This is an example hint.
-- This is an example hint.
-
-`@pre_exercise_code`
-```{r}
-x - mean(x)
-```
-
-`@sct`
-```{r}
-# Check https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises on how to write feedback messages for this exercise.
-```
+`@feedback`
+- Nein, darum geht es leider nicht.
+- Leider nein.
+- Richtig.
