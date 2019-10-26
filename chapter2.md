@@ -53,7 +53,7 @@ Das Terminalfenster in der Konsole ermöglicht:
 
 ---
 
-## Polyomberechnung
+## Polynomberechnung
 
 ```yaml
 type: NormalExercise
