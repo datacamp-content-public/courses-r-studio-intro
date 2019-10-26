@@ -196,6 +196,7 @@ Das Ergebnis lautet?
 `@sct`
 ```{r}
 125
+# aktuell gelten alle MC-Lösungen als richtig
 ```
 
 ---
