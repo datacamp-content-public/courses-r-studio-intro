@@ -67,21 +67,21 @@ key: 225ae2d2bd
 xp: 50
 ```
 
-Welche Programme lassen sich nicht nur als Alternative zu R verwenden, sondern lassen sich auch in R einbinden?
+Welche Statistik-Programme lassen sich nicht nur als Alternative zu R verwenden, sondern lassen sich auch in R einbinden?
 
 `@hint`
 - Es gibt zwei richtige Antworten.
 - Ein Programm lässt sich mit dem Paket _jmv_ in R einbinden.
 
 `@possible_answers`
-- [JAMOVI]
-- JPEG
-- [JASP]
+- [JAMOVI und JASP]
+- JPEG und GIF
+- Excel und Powerpoint
 
 `@feedback`
 - Perfekt!
 - Leider nein, bei JPEG geht's um Bilder. 
-- Richtig!
+- Powerpoint ist nicht für Statistik gedacht.
 
 ---
 
