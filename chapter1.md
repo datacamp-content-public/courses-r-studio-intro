@@ -38,7 +38,7 @@ key: c3ae5215ff
 xp: 50
 ```
 
-**Für was steht IDE im Zusammenhang mit RStudio?**
+**Wofür steht IDE im Zusammenhang mit RStudio?**
 
 RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es integriert dabei einige hilfreiche Entwicklungsumgebungen in eine Anwendung.
 
