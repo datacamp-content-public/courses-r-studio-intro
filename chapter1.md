@@ -40,8 +40,6 @@ xp: 50
 
 **Wofür steht IDE im Zusammenhang mit RStudio?**
 
-
-
 `@hint`
 RStudio ist eine IDE Anwendung, mit der R einfacher verwendet werden kann. Es integriert dabei einige hilfreiche Entwicklungsumgebungen in eine Anwendung.
 
