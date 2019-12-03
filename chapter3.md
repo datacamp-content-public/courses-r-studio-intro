@@ -105,7 +105,8 @@ xp: 100
 
 `@pre_exercise_code`
 ```{r}
-x <- c(1:10), y <- sum(x)
+x <- c(1:10)
+y <- sum(x)
 ```
 
 `@sample_code`
