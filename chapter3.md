@@ -81,3 +81,44 @@ y <- sum(x)
 ```{r}
 # Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
 ```
+
+---
+
+## Vektoren verknüpfen
+
+```yaml
+type: NormalExercise
+key: b2adec3b85
+xp: 100
+```
+
+<!-- Guidelines for contexts: https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+
+`@instructions`
+<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+(b) Erzeugen Sie einen neuen Vektor z der x und danach y enthält.
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- c()
+- This is an example hint.
+
+`@pre_exercise_code`
+```{r}
+x <- c(1:10), y <- sum(x)
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+z <- c(x,y)
+```
+
+`@sct`
+```{r}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+```
