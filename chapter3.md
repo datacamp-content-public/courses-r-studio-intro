@@ -1,6 +1,6 @@
 ---
 title: Homework
-description: 'erste Hausübung'
+description: erste Hausübung
 ---
 
 ## Vektoren erzeugen

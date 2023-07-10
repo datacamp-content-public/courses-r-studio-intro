@@ -1,6 +1,6 @@
 ---
 title: RStudio
-description: 'Allgemeine Fragen zu RStudio'
+description: Allgemeine Fragen zu RStudio
 ---
 
 ## Anwendungsbereich R-Studio

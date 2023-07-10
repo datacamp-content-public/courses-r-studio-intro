@@ -1,6 +1,6 @@
 ---
-title: 'R Konsole'
-description: ""
+title: R Konsole
+description: ''
 ---
 
 ## Pfeiltasten
